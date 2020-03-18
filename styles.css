@@ -1,0 +1,138 @@
+body{
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.6rem;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+}
+
+span{
+  text-decoration: underline;
+}
+
+
+.top-container{
+  background-color: #f4eeff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.top-card{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bot-card{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+
+}
+
+.wizard{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.covid-19{
+  float: left;
+  margin-right: 30px;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-top: none;
+  margin: 100px auto;
+  clear: both;
+  width: 10%;
+}
+
+.intro{
+  width: 30%;
+  margin: 0 auto;
+}
+
+p{
+    line-height: 2;
+}
+
+.contact-message{
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn:hover {
+	 background-color:#5cbf2a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+  color: #11999e;
+  margin: 10px 10px;
+  text-family: Montserrat, serif;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAf6f6;
+}
+
+.copyright{
+  color: #EAf6f6;
+  font-size: 0.85rem;
+  padding: 20px;
+}
